@@ -1,0 +1,12 @@
+
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: linear-gradient(to bottom, #000000, #999999);
+  color: #ffffff;
+  padding: 20px;
+}
+
